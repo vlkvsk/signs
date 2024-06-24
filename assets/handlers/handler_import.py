@@ -1,0 +1,1 @@
+from assets.handlers import handler_start
